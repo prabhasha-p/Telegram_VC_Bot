@@ -3,10 +3,10 @@
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
+         "VoiceStreem",
          "Music",
          "Play",
-         "Voice Streem",
-         "Music Play "
+         "TelegramMusic"
       ],   
    "repository": "https://github.com/prabhasha-p/Telegram_VC_Bot",
    "addons": [
@@ -46,7 +46,7 @@
       "Voice Streem",
       "Music",
       "Play",
-      "Telegram Music"
+      "TelegramMusic"
    ],
    "name": "Telegram Music Play Bot",
    "repository": "https://github.com/prabhasha-p/Telegram_VC_Bot"
