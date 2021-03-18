@@ -40,6 +40,7 @@
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
+      }    
       },
    "keywords": [
       "telegram",
