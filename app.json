@@ -1,5 +1,5 @@
 {
-      "name": "Corona",
+      "name": "Telegram Music Play Bot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -48,6 +48,6 @@
       "Play",
       "Telegram Music"
    ],
-   "name": "Corona",
+   "name": "Telegram Music Play Bot",
    "repository": "https://github.com/prabhasha-p/Telegram_VC_Bot"
 }
